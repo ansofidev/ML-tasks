@@ -1,0 +1,924 @@
+[
+  {
+    "tokens": [
+      "Well",
+      "This",
+      "looks",
+      "like",
+      "a",
+      "sheep",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "sheep",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "Well",
+      "Looks",
+      "like",
+      "a",
+      "cat",
+      "to",
+      "me",
+      ".",
+      "..."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "label": "cat",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "I",
+      "think",
+      "it",
+      "is",
+      "a",
+      "elephant",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "elephant",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "Looks",
+      "like",
+      "a",
+      "squirrel",
+      "to",
+      "me",
+      ".",
+      "..."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "label": "squirrel",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "Well",
+      "This",
+      "looks",
+      "like",
+      "a",
+      "elephant",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "elephant",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "This",
+      "does",
+      "not",
+      "look",
+      "like",
+      "an",
+      "animal",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "label": null,
+    "has_animal": false
+  },
+  {
+    "tokens": [
+      "Looks",
+      "like",
+      "a",
+      "squirrel",
+      "to",
+      "me",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "label": "squirrel",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "contains",
+      "a",
+      "cow",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "cow",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "It",
+      "seems",
+      "to",
+      "be",
+      "a",
+      "dog",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "dog",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "dog",
+      "in",
+      "the",
+      "picture",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "label": "dog",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "Maybe",
+      "it",
+      "is",
+      "a",
+      "cat",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "cat",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "Probably",
+      "a",
+      "cow",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "cow",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "This",
+      "looks",
+      "like",
+      "a",
+      "dog",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "dog",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "butterfly",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "butterfly",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "Maybe",
+      "it",
+      "is",
+      "a",
+      "spider",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "spider",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "cow",
+      "in",
+      "the",
+      "picture",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "label": "cow",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "contains",
+      "a",
+      "sheep",
+      ".",
+      "..."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "label": "sheep",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "contains",
+      "a",
+      "sheep",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "sheep",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "Probably",
+      "a",
+      "spider",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "spider",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "Probably",
+      "a",
+      "elephant",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "elephant",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "Maybe",
+      "it",
+      "is",
+      "a",
+      "elephant",
+      ".",
+      "..."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "label": "elephant",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "cat",
+      ".",
+      "..."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "label": "cat",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "I",
+      "cannot",
+      "identify",
+      "the",
+      "animal",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "label": null,
+    "has_animal": false
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "contains",
+      "a",
+      "squirrel",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "squirrel",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "Well",
+      "The",
+      "animal",
+      "might",
+      "be",
+      "a",
+      "cow",
+      ".",
+      "..."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "label": "cow",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "Well",
+      "I",
+      "think",
+      "it",
+      "is",
+      "a",
+      "dog",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "dog",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "Probably",
+      "a",
+      "squirrel",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "squirrel",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "The",
+      "animal",
+      "might",
+      "be",
+      "a",
+      "dog",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "dog",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "Well",
+      "Maybe",
+      "it",
+      "is",
+      "a",
+      "dog",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "dog",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "It",
+      "seems",
+      "to",
+      "be",
+      "a",
+      "squirrel",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "squirrel",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "Well",
+      "It",
+      "seems",
+      "to",
+      "be",
+      "a",
+      "squirrel",
+      ".",
+      "..."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "label": "squirrel",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "This",
+      "looks",
+      "like",
+      "a",
+      "cow",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "cow",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "Maybe",
+      "it",
+      "is",
+      "a",
+      "cow",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "cow",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "There",
+      "might",
+      "not",
+      "be",
+      "an",
+      "animal",
+      "here",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "label": null,
+    "has_animal": false
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "elephant",
+      "in",
+      "the",
+      "picture",
+      ".",
+      "..."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "label": "elephant",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "Probably",
+      "a",
+      "chicken",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "chicken",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "It",
+      "seems",
+      "to",
+      "be",
+      "a",
+      "cat",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "cat",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "I",
+      "think",
+      "it",
+      "is",
+      "a",
+      "dog",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "dog",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "contains",
+      "a",
+      "butterfly",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "butterfly",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "The",
+      "animal",
+      "might",
+      "be",
+      "a",
+      "elephant",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "elephant",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "It",
+      "seems",
+      "to",
+      "be",
+      "a",
+      "elephant",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "elephant",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "dog",
+      "in",
+      "the",
+      "picture",
+      ".",
+      "..."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "label": "dog",
+    "has_animal": true
+  },
+  {
+    "tokens": [
+      "It",
+      "seems",
+      "to",
+      "be",
+      "a",
+      "elephant",
+      "."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "label": "elephant",
+    "has_animal": true
+  }
+]
